@@ -2,7 +2,7 @@
 
 This document collects and organizes papers on **Spiking Neural Networks (SNNs)** published in top AI-related conferences in recent years.
 
-Format:
+**Format**:
 
 ```Markdown
 ## The name of Conference
@@ -13,9 +13,11 @@ Format:
 
 All the papers in this document are excerpted from the conferences shown in the figure:
 
-Total: 341
+Num of Total Papers: 341
 
 ---
+
+
 
 ## ICML
 
@@ -62,7 +64,7 @@ Total: 341
 * A Unified Optimization Framework of ANN-SNN Conversion: Towards Optimal Mapping from Activation Values to Firing Rates.[[pdf]](https://openreview.net/forum?id=6nFolgGq9E)
 * Adaptive Smoothing Gradient Learning for Spiking Neural Networks.[[pdf]](https://openreview.net/forum?id=GdkwSGTpbC)
 
----
+
 
 ## ICLR
 
@@ -204,7 +206,7 @@ Total: 341
 * Encoding Event-Based Gesture Data With a Hybrid SNN Guided Variational Auto-encoder-.[[pdf]](https://openreview.net/forum?id=Nn4BjABPRPN)
 * Error-based  target-based? A unifying framework for learning in recurrent spiking networks-.[[pdf]](https://openreview.net/forum?id=ZVqsBl2HapR)
 
----
+
 
 ## NeurIPS
 
@@ -272,7 +274,8 @@ Total: 341
 * Biologically plausible solutions for spiking networks with efficient coding .[[pdf]](https://openreview.net/pdf?id=zdmYnIRXvKS)
 * A High Performance and Low Latency Deep Spiking Neural Networks Conversion Framework.[[pdf]](https://openreview.net/forum?id=SOqGrmufeRg)
 
----
+
+
 
 ## AAAI
 
@@ -326,7 +329,7 @@ Total: 341
 * Exploring Temporal Information Dynamics in Spiking Neural Networks Exploring-Tempo....[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26002/25774)
 * Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks.[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26034/25806)
 
----
+
 
 ## IJCAI
 
@@ -355,7 +358,7 @@ Total: 341
 * Signed Neuron with Memory: Towards Simple, Accurate and High-Efficient ANN-SNN Conversion ANN2SNNConversi....[[pdf]](https://www.ijcai.org/proceedings/2022/0347.pdf)
 * Self-Supervised Mutual Learning for Dynamic Scene Reconstruction of Spiking Camera SSML-Spiking-Ca....[[pdf]](https://www.ijcai.org/proceedings/2022/0396.pdf)
 
----
+
 
 ## CVPR
 
@@ -384,7 +387,7 @@ Total: 341
 * Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks.[[pdf]](https://www.ecva.net/content/CVPR2023/papers/Bu_Rate_Gradient_Approximation_Attack_Threats_Deep_Spiking_Neural_Networks_CVPR_2023_paper.pdf)
 * Constructing Deep Spiking Neural Networks From Artificial Neural Networks With Knowledge Distillation.[[pdf]](https://www.ecva.net/content/CVPR2023/papers/Xu_Constructing_Deep_Spiking_Neural_Networks_From_Artificial_Neural_Networks_With_CVPR_2023_paper.pdf)
 
----
+
 
 ## ICCV
 
@@ -409,7 +412,7 @@ Total: 341
 * Masked Spiking Transformer[[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.pdf)
 * Deep Directly-Trained Spiking Neural Networks for Object Detection EMS-YOLO.[[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Su_Deep_Directly-Trained_Spiking_Neural_Networks_for_Object_Detection_ICCV_2023_paper.pdf)
 
----
+
 
 ## ECCV
 
@@ -439,7 +442,7 @@ Total: 341
 * Deep Spiking Neural Network: Energy Efficiency Through Time based Coding.[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550392.pdf)
 * Inherent Adversarial Robustness of Deep Spiking Neural Networks: Effects of Discrete Input Encoding and Non-Linear Activations.[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740392.pdf)
 
----
+
 
 ## MM
 
@@ -470,7 +473,7 @@ Total: 341
 * Recognizing High-Speed Moving Objects with Spike Camera
 * Recurrent Spike-based Image Restoration under General Illumination
 
----
+
 
 ## ACL
 
@@ -480,28 +483,28 @@ Total: 341
 
 ### 2023
 
-无
+None
 
----
+
 
 ## EMNLP
 
-无
+None
 
----
+
 
 ## NAACL
 
-无
+None
 
 ---
 
 ## WWW
 
-无
+None
 
 ---
 
 ## SIGIR
 
-无
+None

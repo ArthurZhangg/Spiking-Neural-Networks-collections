@@ -22,6 +22,7 @@ Total: 341
 ### 2025
 
 abcde
+fgh
 
 * BSO: Binary Spiking Online Optimization Algorithm.[[pdf]](https://openreview.net/forum?id=V2bw5SmpF6)
 * Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation.[[pdf]](https://openreview.net/forum?id=Wz2T778EKJ)

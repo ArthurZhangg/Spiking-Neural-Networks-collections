@@ -21,6 +21,8 @@ Total: 341
 
 ### 2025
 
+abcde
+
 * BSO: Binary Spiking Online Optimization Algorithm.[[pdf]](https://openreview.net/forum?id=V2bw5SmpF6)
 * Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation.[[pdf]](https://openreview.net/forum?id=Wz2T778EKJ)
 * Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning.[[pdf]](https://openreview.net/forum?id=qE4e9ouzoQ)
